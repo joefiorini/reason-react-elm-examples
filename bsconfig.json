@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "sources": [
+    {
+      "dir": "src",
+      "subdirs": ["unordered-list", "buttons"]
+    }
+  ],
+  "reason": { "react-jsx": true },
+  "bs-dependencies": ["reason-react"]
+}
