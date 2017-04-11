@@ -3,7 +3,7 @@
   "sources": [
     {
       "dir": "src",
-      "subdirs": ["unordered-list", "buttons"]
+      "subdirs": ["unordered-list", "buttons", "field"]
     }
   ],
   "reason": { "react-jsx": true },
